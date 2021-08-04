@@ -1,0 +1,33 @@
+h1{
+    color:crimson;
+    background-color: darkgreen;
+    border:gold solid 7px;
+    border-radius: 10px;
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+.first{
+    color: sandybrown;
+    background-color: gold;
+    border: navy solid 7px;
+}
+.second{
+    color:whitesmoke ;
+    background-color: dodgerblue;
+    border: black solid 7px;
+}
+span{
+    color:brown ;
+}
+.A{
+    color:green
+}
+p{
+    display: flex;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
